@@ -29,7 +29,7 @@
     "react": "^0.14.6 || 15.x.x"
   },
   "devDependencies": {
-    "enzyme": "^2.4.1",
+    "enzyme": "^3.10.0",
     "eslint": "^1.10.3",
     "eslint-config-airbnb": "^5.0.1",
     "eslint-loader": "^1.5.0",
